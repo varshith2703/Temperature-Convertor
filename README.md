@@ -19,11 +19,9 @@ This project is a simple, responsive Temperature Converter web application. It a
 - Update the styles in `styles.css` to change the appearance.
 - Modify or extend the logic in `script.js` for additional features.
 
-## Live Demo
+## 🚀 Live Demo
 
-You can try the live version here:
-
-[https://varshith2703.github.io/Temperature-Convertor/](Temperature-Convertor)
+Check out the live version here: [Temperature Convertor Live](https://varshith2703.github.io/Temperature-Convertor/)
 
 ## Deployment
 
